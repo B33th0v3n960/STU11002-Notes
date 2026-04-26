@@ -248,7 +248,7 @@ $ T = (dash(X)_1 - dash(X)_2 - d_0)/sqrt(dash(X)_p (1 - dash(X)_p)(1/n_1 + 1/n_2
 $ dash(X)_p = (n_1 dash(X)_1 + n_2 dash(X)_2)/(n_1 + n_2)  $
 
 ==== Independence Test
-$ chi^2 = sum_(k=1)^K sum_(j=1)^J (f_(k j) - (f_k f_j)/n)/((f_k f_j)/n) $
+$ chi^2 = sum_(k=1)^K sum_(j=1)^J (f_(k j) - (f_k f_j)/n)^2/((f_k f_j)/n) $
 
 === p-Hacking
 ==== Bonferroni Correction
