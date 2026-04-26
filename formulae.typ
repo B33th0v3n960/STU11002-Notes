@@ -292,7 +292,7 @@ $ hat(epsilon.alt)_i = y_i - hat(y)_i $
 === Total sum of squares
 $ "TSS" = sum_(i=1)^n (y_i - dash(y))^2 $
 === Residual sum of squares
-$ "RSS" = sum_(i=1)^n (y_i - hat(y))^2 = sum_(i=1)^n hat(epsilon.alt)_i^2 $
+$ "RSS" = sum_(i=1)^n (y_i - hat(y)_i)^2 = sum_(i=1)^n hat(epsilon.alt)_i^2 $
 === Explained sum of squares
 $ "ESS" = sum_(i=1)^n (hat(y)_i - dash(y))^2 $
 $ "TSS" = "ESS" + "RSS" $ 
